@@ -6,7 +6,7 @@ Indeed, this is why this project was created....!
 ## Prerequisites--
 ---
 ### Libraries-
-1. Narcoleptic- It helps put arduino into ultra power saving mode which is all, required for it to last several days.
+1. Narcoleptic- It helps put arduino into ultra power saving mode which is all is required for it to last several days.
 
 
 ### Hardware-
